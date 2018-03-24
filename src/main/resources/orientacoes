@@ -1,0 +1,7 @@
+Eclipse Oxigen 2
+Java 1.8
+
+
+Postman - para teste dos servicos
+
+application.properties - possui as configuracoe de banco, spring e hibernate
